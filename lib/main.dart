@@ -1,21 +1,4 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//BUSINESS_CARD_IN_FLUTTER
 
 import 'package:flutter/material.dart';
 
@@ -33,7 +16,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: true,
       home: Scaffold(
-        backgroundColor: Colors.teal.shade600,
+        backgroundColor: Colors.teal.shade500,
         body: SafeArea(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
